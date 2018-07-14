@@ -1,0 +1,1 @@
+Initializing fractal projects - more than just mandelbrot sets
